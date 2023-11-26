@@ -22,6 +22,7 @@ export default function RootLayout({
           links={[
             { href: "/", label: "Home" },
             { href: "/projects", label: "Projects" },
+            { href: "/blogs", label: "Blogs" },
           ]}
         />
         {children}
