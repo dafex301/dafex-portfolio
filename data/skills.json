@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Front End",
+    "description": "I have gained expertise in a variety of front-end development technologies, including HTML, CSS, JavaScript, jQuery, React.js, Next.js, Tailwind, and Flutter.",
+    "icon": "/icons/react.png"
+  },
+  {
+    "title": "Back End",
+    "description": "I have extensive experience working with a variety of backend technologies, including Node.js (Express), PHP (Laravel), C# (.NET), and Go (Gin).",
+    "icon": "/icons/go.png"
+  },
+  {
+    "title": "Cloud Computing",
+    "description": "My experience with cloud computing includes working with Compute Engine, GKE, App Engine, Cloud Run, Docker, and Terraform.",
+    "icon": "/icons/cloud.png"
+  }
+]

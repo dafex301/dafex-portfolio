@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Linkedin",
+    "icon": "/icons/linkedin.svg",
+    "href": "https://www.linkedin.com/in/fahrelga/"
+  },
+  {
+    "name": "GitHub",
+    "icon": "/icons/github.svg",
+    "href": "https://github.com/dafex301"
+  }
+]
