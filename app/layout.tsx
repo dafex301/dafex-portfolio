@@ -6,8 +6,12 @@ import { Header } from "@/components/organisms/header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Dafex Portfolio",
-  description: "Portfolio that shows my projects and skills",
+  title: {
+    template: "DaFeX %s",
+    default: "DaFeX",
+  },
+  description: "DaFeX's personal website",
+  metadataBase: new URL("https://dafex.tech/"),
 };
 
 export default function RootLayout({
@@ -17,7 +21,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={`${inter.className} bg-gray-700`}>
         <Header
           links={[
             { href: "/", label: "Home" },

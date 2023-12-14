@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Belom SIAP - Web Extension",
+    "slug": "belum-siap",
+    "description": "Created for better SIAP Undip experience",
+    "year": 2023,
+    "image": "/projects/belom-siap.png",
+    "url": ""
+  },
+  {
+    "name": "Quiz Game built with Xstate",
+    "slug": "quiz-game-xstate",
+    "description": "Quiz Game built with Xstate",
+    "year": 2023,
+    "image": "",
+    "url": ""
+  },
+  {
+    "name": "Sistem Informasi Biro Akademik dan Kemahasiswaan",
+    "slug": "si-bak",
+    "description": "Sistem Informasi Biro Akademik dan Kemahasiswaan Undip",
+    "year": 2023,
+    "image": "",
+    "url": ""
+  }
+]

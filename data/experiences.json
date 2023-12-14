@@ -1,5 +1,10 @@
 [
   {
+    "company": "Zenius Education",
+    "position": "Quality Assurance Intern",
+    "logo": "/images/zenius.jpg"
+  },
+  {
     "company": "Universitas Diponegoro",
     "position": "Software Engineer Intern",
     "logo": "/images/undip.png"

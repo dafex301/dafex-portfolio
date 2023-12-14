@@ -13,7 +13,7 @@ interface HeaderProps {
 export const Header: React.FC<HeaderProps> = ({ links }) => {
   return (
     <header className="bg-gray-700 pb-6">
-      <div className="flex justify-between xl:xl:mx-64 md:mx-24 mx-5 pt-8">
+      <div className="flex justify-between xl:mx-64 md:mx-24 mx-5 pt-8">
         <Link className="text-white font-bold text-2xl" href={"/"}>
           DAFEX
         </Link>

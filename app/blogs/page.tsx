@@ -1,4 +1,10 @@
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Blogs",
+};
 export default function Page() {
+
   return (
     <>
       <main className="bg-gray-700 text-white h-screen text-center">
