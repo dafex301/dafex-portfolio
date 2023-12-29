@@ -1,10 +1,35 @@
 [
   {
     "name": "Belom SIAP - Web Extension",
-    "slug": "belum-siap",
+    "slug": "belom-siap",
     "description": "Created for better SIAP Undip experience",
     "year": 2023,
     "image": "/projects/belom-siap.png",
+    "url": ""
+  },
+
+  {
+    "name": "Mentoring Platform",
+    "slug": "mentoring-platform",
+    "description": "Mentoring Platform",
+    "year": 2023,
+    "image": "/projects/mentoring-platformx.png",
+    "url": ""
+  },
+  {
+    "name": "Desa Wisata Kebondowo",
+    "slug": "deswita-kebondowo",
+    "description": "Desa Wisata Kebondowo",
+    "year": 2023,
+    "image": "/projects/deswita-kebondowo.png",
+    "url": "kebondowo.com"
+  },
+  {
+    "name": "Sistem Informasi Biro Akademik dan Kemahasiswaan",
+    "slug": "si-bak",
+    "description": "Sistem Informasi Biro Akademik dan Kemahasiswaan Undip",
+    "year": 2023,
+    "image": "",
     "url": ""
   },
   {
@@ -16,9 +41,41 @@
     "url": ""
   },
   {
-    "name": "Sistem Informasi Biro Akademik dan Kemahasiswaan",
-    "slug": "si-bak",
-    "description": "Sistem Informasi Biro Akademik dan Kemahasiswaan Undip",
+    "name": "Taspen SAFE",
+    "slug": "T-SAFE",
+    "description": "Taspen SAFE",
+    "year": 2023,
+    "image": "",
+    "url": ""
+  },
+  {
+    "name": "Taspen Warehouse",
+    "slug": "Taspen-Warehouse",
+    "description": "Taspen Warehouse",
+    "year": 2023,
+    "image": "",
+    "url": ""
+  },
+  {
+    "name": "Sistem Informasi Monitoring Mahasiswa Informatika",
+    "slug": "SIMMI",
+    "description": "Sistem Informasi Monitoring Mahasiswa Informatika",
+    "year": 2023,
+    "image": "",
+    "url": ""
+  },
+  {
+    "name": "Sistem Informasi Monitoring Mahasiswa Informatika",
+    "slug": "SIMMI",
+    "description": "Sistem Informasi Monitoring Mahasiswa Informatika",
+    "year": 2023,
+    "image": "",
+    "url": ""
+  },
+  {
+    "name": "freeCodeCamp Front End Projects",
+    "slug": "fcc-fe-projects",
+    "description": "freeCodeCamp Front End Projects",
     "year": 2023,
     "image": "",
     "url": ""

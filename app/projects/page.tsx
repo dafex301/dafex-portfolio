@@ -10,11 +10,11 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <main className=" text-white h-screen text-center xl:mx-64 md:mx-24 mx-5">
-        <h1 className="md:text-5xl text-xl font-bold drop-shadow-md text-yellow-500 hover:text-white duration-200 mb-5">
+      <main className=" text-white text-center xl:mx-64 md:mx-24 mx-5 pb-8">
+        <h1 className="md:text-4xl text-3xl font-bold drop-shadow-md text-yellow-500 hover:text-white duration-200 mb-5">
           Projects
         </h1>
-        <div className="grid grid-cols-2 gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           {projects.map((project) => (
             <Link key={project.name} href={`/projects/${project.slug}`}>
               <div className="bg-gray-400 rounded-lg w-full h-64 ">

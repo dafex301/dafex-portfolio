@@ -27,6 +27,7 @@ export default function RootLayout({
             { href: "/", label: "Home" },
             { href: "/projects", label: "Projects" },
             { href: "/blogs", label: "Blogs" },
+            { href: "/gibah", label: "Gibah" },
           ]}
         />
         {children}
