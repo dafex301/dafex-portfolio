@@ -17,7 +17,7 @@ export default function Page() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           {projects.map((project) => (
             <Link key={project.name} href={`/projects/${project.slug}`}>
-              <div className="bg-gray-400 rounded-lg w-full h-64 ">
+              <div className="bg-gray-400 rounded-lg w-full h-64 hover:scale-105 transition-all duration-200">
                 {project.image ? (
                   <Image
                     src={project.image}

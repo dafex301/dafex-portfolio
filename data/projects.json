@@ -29,23 +29,16 @@
     "slug": "si-bak",
     "description": "Sistem Informasi Biro Akademik dan Kemahasiswaan Undip",
     "year": 2023,
-    "image": "",
+    "image": "/projects/si-bak.png",
     "url": ""
   },
-  {
-    "name": "Quiz Game built with Xstate",
-    "slug": "quiz-game-xstate",
-    "description": "Quiz Game built with Xstate",
-    "year": 2023,
-    "image": "",
-    "url": ""
-  },
+
   {
     "name": "Taspen SAFE",
     "slug": "T-SAFE",
     "description": "Taspen SAFE",
     "year": 2023,
-    "image": "",
+    "image": "/projects/t-safe.png",
     "url": ""
   },
   {
@@ -53,31 +46,23 @@
     "slug": "Taspen-Warehouse",
     "description": "Taspen Warehouse",
     "year": 2023,
-    "image": "",
+    "image": "/projects/taspen-warehouse.png",
     "url": ""
   },
   {
     "name": "Sistem Informasi Monitoring Mahasiswa Informatika",
     "slug": "SIMMI",
     "description": "Sistem Informasi Monitoring Mahasiswa Informatika",
-    "year": 2023,
-    "image": "",
+    "year": 2022,
+    "image": "/projects/simmix.png",
     "url": ""
   },
   {
-    "name": "Sistem Informasi Monitoring Mahasiswa Informatika",
-    "slug": "SIMMI",
-    "description": "Sistem Informasi Monitoring Mahasiswa Informatika",
-    "year": 2023,
-    "image": "",
-    "url": ""
-  },
-  {
-    "name": "freeCodeCamp Front End Projects",
-    "slug": "fcc-fe-projects",
-    "description": "freeCodeCamp Front End Projects",
-    "year": 2023,
-    "image": "",
+    "name": "Sistem Absensi Praktikum Informatika",
+    "slug": "SIAPIN",
+    "description": "Sistem Absensi Praktikum Informatika",
+    "year": 2022,
+    "image": "/projects/siapinx.png",
     "url": ""
   }
 ]

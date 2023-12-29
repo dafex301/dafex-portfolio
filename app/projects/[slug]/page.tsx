@@ -35,6 +35,7 @@ export default async function Page({ params, searchParams }: Props) {
       <h1 className="md:text-4xl text-3xl font-bold drop-shadow-md text-yellow-500 hover:text-white duration-200 mb-5">
         {project?.name}
       </h1>
+      <p>Coming zoon 🙏</p>
     </main>
   );
 }
