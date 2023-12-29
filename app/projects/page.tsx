@@ -11,9 +11,17 @@ export default function Page() {
   return (
     <>
       <main className=" text-white text-center xl:mx-64 md:mx-24 mx-5 pb-8">
-        <h1 className="md:text-4xl text-3xl font-bold drop-shadow-md text-yellow-500 hover:text-white duration-200 mb-5">
-          Projects
-        </h1>
+        <div className="mb-5">
+          <h1 className="md:text-4xl text-3xl font-bold drop-shadow-md text-yellow-500 hover:text-white duration-200 ">
+            Projects
+          </h1>
+          <Link href="/fun">
+            <p className="text-gray-500 hover:text-gray-300">
+              Click here for the fun part 👀
+            </p>
+          </Link>
+        </div>
+
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           {projects.map((project) => (
             <Link key={project.name} href={`/projects/${project.slug}`}>

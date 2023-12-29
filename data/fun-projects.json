@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Calculator",
+    "url": "https://fcc-fe-projects.vercel.app/calculator",
+    "image": "/fun/calculator.png"
+  },
+  {
+    "name": "Drum Machine",
+    "url": "https://fcc-fe-projects.vercel.app/drum",
+    "image": "/fun/drum-machine.png"
+  },
+  {
+    "name": "Quotes Generator",
+    "url": "https://fcc-fe-projects.vercel.app/quote",
+    "image": "/fun/quotes-generator.png"
+  },
+  {
+    "name": "Markdown Previewer",
+    "url": "https://fcc-fe-projects.vercel.app/markdown",
+    "image": "/fun/markdown-previewerx.png"
+  },
+  {
+    "name": "Pomodoro Timer",
+    "url": "https://25-5-clock-dafex.vercel.app/",
+    "image": "/fun/pomodoro-timer.png"
+  }
+]
