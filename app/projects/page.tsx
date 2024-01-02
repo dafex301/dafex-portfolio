@@ -24,7 +24,7 @@ export default function Page() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           {projects.map((project) => (
-            <Link key={project.name} href={`/projects/${project.slug}`}>
+            <a key={project.slug} href={project.url} target="_blank">
               <div className="bg-gray-400 rounded-lg w-full h-64 hover:scale-105 transition-all duration-200">
                 {project.image ? (
                   <Image
@@ -40,7 +40,7 @@ export default function Page() {
                   </h1>
                 )}
               </div>
-            </Link>
+            </a>
           ))}
         </div>
       </main>

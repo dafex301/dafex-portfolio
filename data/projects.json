@@ -5,7 +5,7 @@
     "description": "Created for better SIAP Undip experience",
     "year": 2023,
     "image": "/projects/belom-siap.png",
-    "url": ""
+    "url": "https://microsoftedge.microsoft.com/addons/detail/belom-siap/knngjlgnanadncndgjoeapihgmpfjlil"
   },
 
   {
@@ -14,7 +14,7 @@
     "description": "Mentoring Platform",
     "year": 2023,
     "image": "/projects/mentoring-platformx.png",
-    "url": ""
+    "url": "https://github.com/orgs/C23-MP02/repositories"
   },
   {
     "name": "Desa Wisata Kebondowo",
@@ -22,7 +22,7 @@
     "description": "Desa Wisata Kebondowo",
     "year": 2023,
     "image": "/projects/deswita-kebondowo.png",
-    "url": "kebondowo.com"
+    "url": "https://kebondowo.com"
   },
   {
     "name": "Sistem Informasi Biro Akademik dan Kemahasiswaan",
@@ -30,7 +30,7 @@
     "description": "Sistem Informasi Biro Akademik dan Kemahasiswaan Undip",
     "year": 2023,
     "image": "/projects/si-bak.png",
-    "url": ""
+    "url": "https://github.com/dafex301/Sistem-Informasi-BAK"
   },
 
   {
@@ -39,7 +39,7 @@
     "description": "Taspen SAFE",
     "year": 2023,
     "image": "/projects/t-safe.png",
-    "url": ""
+    "url": "https://github.com/dafex301/T-SAFE"
   },
   {
     "name": "Taspen Warehouse",
@@ -47,7 +47,7 @@
     "description": "Taspen Warehouse",
     "year": 2023,
     "image": "/projects/taspen-warehouse.png",
-    "url": ""
+    "url": "https://github.com/dafex301/taspen-wh"
   },
   {
     "name": "Sistem Informasi Monitoring Mahasiswa Informatika",
@@ -55,7 +55,7 @@
     "description": "Sistem Informasi Monitoring Mahasiswa Informatika",
     "year": 2022,
     "image": "/projects/simmix.png",
-    "url": ""
+    "url": "https://github.com/dafex301/PPL-FE"
   },
   {
     "name": "Sistem Absensi Praktikum Informatika",
@@ -63,6 +63,6 @@
     "description": "Sistem Absensi Praktikum Informatika",
     "year": 2022,
     "image": "/projects/siapinx.png",
-    "url": ""
+    "url": "https://github.com/dafex301/SIAPIN"
   }
 ]
