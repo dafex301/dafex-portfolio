@@ -20,6 +20,14 @@ export default function Page() {
               Click here for the fun part 👀
             </p>
           </Link>
+          <a
+            href="https://drive.google.com/file/d/1hBjRWlmeL6HzcTdQMifH07qLohj41eGT/view?usp=sharing"
+            target="_blank"
+          >
+            <p className="text-gray-500 hover:text-gray-300">
+              Click here for the projects detail
+            </p>
+          </a>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
