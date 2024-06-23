@@ -1,5 +1,10 @@
 [
   {
+    "company": "Traveloka",
+    "position": "QA Engineer",
+    "logo": "/images/traveloka.png"
+  },
+  {
     "company": "Zenius Education",
     "position": "Quality Assurance Intern",
     "logo": "/images/zenius.jpg"

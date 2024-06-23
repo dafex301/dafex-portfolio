@@ -16,7 +16,7 @@ export default function Experience(props: IExperienceProps) {
         alt={props.company}
         width={LOGO_SIZE}
         height={LOGO_SIZE}
-        className="rounded-lg w-10 h-10"
+        className="rounded-lg w-10 h-10 bg-white"
       />
       <div className="flex flex-col">
         <h4 className="text-sm">{props.company}</h4>
